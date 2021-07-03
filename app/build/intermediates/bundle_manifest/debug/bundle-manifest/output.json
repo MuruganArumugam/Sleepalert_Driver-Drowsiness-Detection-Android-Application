@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "driver.drowsiness",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 5,
+        "versionName": "1.3",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "driver.drowsiness",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    }
+  ]
+}
