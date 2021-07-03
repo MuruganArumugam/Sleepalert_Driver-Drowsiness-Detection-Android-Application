@@ -12,21 +12,31 @@ stands for vehicles to use the system in real world.
 Requirements :- 
 
 Hardware
+
 • Android Device with minimum sdk 21
+
 • Mobile stand for vehicles
 
 Software
+
 • Android studio
 
-Steps to run the app are the following.
-• Zip file(sleepalert_final.zip) is uploaded. Download the zip file
-and extract it in some location
-• Open android studio and choose "Open an existing Android
-Studio project" option
-• Then specify the extracted zip file location and click on it
-• It will take some time for the gradle to build
-• Once gradle build is finished, connect your android device
-through usb and choose your device name ( make sure you have
-enabled the developer options in your mobile )
-• Click run icon
-• Now the application will run in your android device
+Steps to run the app are the following. 
+
+1). Zip file(sleepalert_final.zip) is uploaded. Download the zip file
+and extract it in some location.
+
+2). Open android studio and choose "Open an existing Android
+Studio project" option.
+
+3). Then specify the extracted zip file location and click on it.
+
+4). It will take some time for the gradle to build.
+
+5). Once gradle build is finished, connect your android device
+through usb and choose your device name (make sure you have
+enabled the developer options in your mobile).
+
+6). Click run icon.
+
+7). Now the application will run in your android device.
